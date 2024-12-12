@@ -1,0 +1,14 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "jok",
+      "location" : "phnom penh"
+    },
+    {
+      "id": "2",
+      "name": "jing",
+      "location" : "Bankok"
+    }
+  ]
+}
